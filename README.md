@@ -44,8 +44,17 @@ Relief back to Tension:
 
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
-section 3 before end of game
+The level introduces different challenges to the player as they progress throughout the level as the player is introduced to each new mechanic individually before it is then combined with another mechanic to create a new layer of difficulty for the player. The final area of the level is a combination of all the different mechanics and challenges that the player has been introduced to throughout their time playing the level, this means that the difficulty curve of the level is gradual and that by the time the player reaches the final area of the level they are not overwhelmed by the increase in difficulty. This allows for the player to stay in a constant state of flow where as they progress through the level the difficulty of the challenges they face increase along with the each new mechanic introduced resulting in a gradual increase in difficulty that does not cause the flow to break. By controlling the flow of the level in this way the difficulty curve that the player experiences is never to extreme meaning that each challenge presented to the player feels unique and interesting.
+
+New layer of difficulty added to existing mechanic:
+
+![NewMechanic](DocImages/1.3_Challenge.png)
+
+Combination of all mechanics introduced:
+
+![Combination](DocImages/1.3_Challenge2.png)
+
+
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
