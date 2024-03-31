@@ -31,8 +31,17 @@ Gun example:
 
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
-section 1 room with chompers or section 3 before end of game
+The intensity curve of the level fluctuates multiple times throughout the level with it changing based on the intensity of the interaction that the player has just faced, for example in section 1 after the player has cleared the area where they must jump over the spiked blocks while trying not to fall into the acid below them, the player is presented with a puzzle to solve afterward. This modulates the intensity of the level as the player goes from an area with a large amount of tension where they can fall into acid with a single wrong jump to an area where this tension is then relieved with a puzzle that does not put the player in a likely situation of death. By modulating the intensity of the level multiple times as the player progresses through it, it allows for the player to reflect on the tension and intensity that they have just experienced in the previous area before the tension and intensity of the level increases again when the player proceeds to the next area.
+
+Tension to Relief:
+
+![ToRelief](DocImages/1.2_Drama.png)
+
+Relief back to Tension:
+
+![ToTension](DocImages/1.2_Drama2.png)
+
+
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
