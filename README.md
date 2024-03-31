@@ -21,6 +21,15 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 During section 1 of the level the player discovers the staff locked behind a door that they must use to break the pillar blocking the key. When the player encounters the door they are required to make their way up each of the platforms above the staff so that the moveable block can be pushed onto the pressure pad to unlock the door. This encounter teaches the player the principals needed to unlock the gun later in the level, as when the player discovers the door blocking the gun they will already have been introduced to the mechanics required to unlock the door. However, these mechanics will vary from the mechanics introduced to the player before, as the platforms will now move allowing for the player to discover a new mechanic since they have progressed further through the level. This introduction of moving platforms allows for the player to be introduced to new mechanics by using their familiarity of mechanics from section 1 to create newly discovered mechanics that the level is able to build upon based on the players experiences from earlier sections in the level.
 
+Section 1:
+
+![Section1](DocImages/1.1_Discovery.png)
+
+Gun example:
+
+![Gun](DocImages/1.1_Discovery_2.png)
+
+
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 section 1 room with chompers or section 3 before end of game
