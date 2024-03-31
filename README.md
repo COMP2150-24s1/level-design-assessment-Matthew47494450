@@ -57,8 +57,17 @@ Combination of all mechanics introduced:
 
 
 ### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
-end of section 2 for gun and start of section 3 for health pickups
+The player is encouraged to explore different spaces within the level through player curiosity, as the level has been designed so that the player is rewarded for investigating the different spaces that take their interest, these spaces are made distinct by being placed in ways to where the player can easily skip over them. These spaces are best demonstrated by the gun pickup at the end of section 2 and the health pickups at the start of section 3. As these spaces contain items that are valuable to the player, thus meaning that if players decides to ignore the space with these items the remaining sections of the level will become more difficult. Therefore, player curiosity encourages exploration of these different spaces as by choosing to explore these spaces the player is rewarded with valuable items that make the remaining sections of the level easier. By designing these spaces so that players are rewarded for their exploration distinct areas are created where the player is encouraged to investigate each of these spaces for the valuable rewards given in return.
+
+Gun Pickup:
+
+![Gun](DocImages/1.4_Exploration.png)
+
+Health Pickup:
+
+![Health](DocImages/1.4_Exploration2.png)
+
+
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
