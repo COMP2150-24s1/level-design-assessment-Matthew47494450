@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
+### Name: Matthew Murphy
+### Student number: 47954450 
 
 This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
 
@@ -15,20 +15,23 @@ Example:
 
 ![This is the alt text for an image!](DocImages/exampleimage.png)
 
-## 1. Player Experience (~700 words)
+## 1. Player Experience (~700 words) 175 words per subsection 
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+During section 1 of the level the player discovers the staff locked behind a door that they must use to break the pillar blocking the key. When the player encounters the door they are required to make their way up each of the platforms above the staff so that the moveable block can be pushed onto the pressure pad to unlock the door. This encounter teaches the player the principals needed to unlock the gun later in the level, as when the player discovers the door blocking the gun they will already have been introduced to the mechanics required to unlock the door. However, these mechanics will vary from the mechanics introduced to the player before, as the platforms will now move allowing for the player to discover a new mechanic since they have progressed further through the level. This introduction of moving platforms allows for the player to be introduced to new mechanics by using their familiarity of mechanics from section 1 to create newly discovered mechanics that the level is able to build upon based on the players experiences from earlier sections in the level.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+section 1 room with chompers or section 3 before end of game
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+section 3 before end of game
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+end of section 2 for gun and start of section 3 for health pickups
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
@@ -79,22 +82,4 @@ You should conclude by highlighting a specific example of an encounter, or anoth
 
 ## Generative AI Use Acknowledgement
 
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
-
-
+N/A
