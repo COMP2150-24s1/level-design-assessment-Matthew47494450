@@ -15,7 +15,7 @@ Example:
 
 ![This is the alt text for an image!](DocImages/exampleimage.png)
 
-## 1. Player Experience (~700 words) 175 words per subsection 
+## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
