@@ -129,7 +129,7 @@ No additional words are necessary for this section (any words should only be wit
 ![ItemKey](DocImages/Item_Key.png)
  
 ### 3.1. Molecule Diagram
-
+![MoleculeDiagram](DocImages/Molecule_Diagram.png)
 ### 3.2. Level Map – Section 1
 
 ![Section1](DocImages/Section_1.1.png)
