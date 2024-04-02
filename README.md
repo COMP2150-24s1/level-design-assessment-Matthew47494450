@@ -76,27 +76,49 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+### Storyboard Item Key
+![ItemKey](DocImages/Item_Key.png)
 
-### 2.2. Checkpoints
+### Spikes
+The spikes are introduced to the player as the first encounter in the level as they provide a simple way for the player to be introduced to both damage caused by spikes as well as how much health is lost by hitting them.
 
-### 2.3. Chompers
+### Checkpoints
+The checkpoint is introduced to the player before they encounter the acid and moving platform puzzle they will be presented with next so that if they fail to make the jump they will not have to complete the previous section again.
 
-### 2.4. Health Pickups
+### Acid
+The acid is placed towards the start of the first section of the game so that the player can be taught how the acid works, as well as how the checkpoint works if they fall into the acid below.
 
-### 2.5. Keys
+### Moving Platforms
+The moving platform is introduced to enable the player to learn how the moving platform functions as well as how both the checkpoint and acid behave, as failure to make the jump on the moving platform will teach the player about the acid and checkpoint whereas success will teach them about the moving platform.
 
-### 2.6. Moving Platforms
+![Spikes](DocImages/Section_1.1.png)
 
-### 2.7. Passthrough Platforms
+### Passthrough Platforms
+The passthrough platform has been placed to encourage the player to explore the environment around them as if they passthrough it they will see the staff that they need to break the pillar and get the key.
 
-### 2.8. Spikes
+### Weapon Pickup (Staff)
+The staff has been placed behind a door to encourage the player to explore the environment so that they can acquire it and collect the key blocked by the pillar teaching them about how the staff can break specific sections of the environment.
 
-### 2.9. Spitters
+### Keys
+The key has been placed behind the destructible pillar to encourage the player to explore and to solve the puzzle of what they need to do in order to break the pillar and attain the key behind it.
 
-### 2.10. Weapon Pickup (Gun)
+![Key](DocImages/Section_1.2.png)
 
-### 2.11. Weapon Pickup (Staff)
+### Chompers
+Chompers have been placed in a separate enclosed space to create an encounter where the player learns about the newly acquired staff and how it behaves while also being introduced to the chompers and their behaviours.
+
+### Health Pickups
+Health Pickups have been added to the end of the encounter with the chompers to reward the player for their hard work so far as they have overcome many different challenges such as spikes and chompers and their health may be quite low at this point in the level
+
+![Health](DocImages/Section_2.1.png)
+
+### Spitters
+Spitters have been introduced later in the level as they are used to create an addition layer of difficulty to the level by causing the player to need to avoid the acid they spit while also needing to make sure that they don’t accidentally jump into the acid in front of them.
+
+### Weapon Pickup (Gun)
+The Gun has been hidden away from the player to encourage exploration as by having the player explore different areas of the level they can then be rewarded for their exploration with an additional weapon.
+
+![Gun](DocImages/Section_2.2.png)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
