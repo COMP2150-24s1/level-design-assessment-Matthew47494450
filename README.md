@@ -83,40 +83,40 @@ You should restructure the headings below to match the order they appear in your
 The spikes are introduced to the player as the first encounter in the level as they provide a simple way for the player to be introduced to both damage caused by spikes as well as how much health is lost by hitting them.
 
 ### Checkpoints
-The checkpoint is introduced to the player before they encounter the acid and moving platform puzzle they will be presented with next so that if they fail to make the jump they will not have to complete the previous section again.
+The checkpoint is introduced to the player before they encounter the acid and moving platform puzzle so that if they fail to make the jump they will not have to complete the previous section again.
 
 ### Acid
 The acid is placed towards the start of the first section of the game so that the player can be taught how the acid works, as well as how the checkpoint works if they fall into the acid below.
 
 ### Moving Platforms
-The moving platform is introduced to enable the player to learn how the moving platform functions as well as how both the checkpoint and acid behave, as failure to make the jump on the moving platform will teach the player about the acid and checkpoint whereas success will teach them about the moving platform.
+The moving platform is introduced to enable the player to learn how the moving platform functions as well as how both the checkpoint and acid behave, as failure to make the jump will result in the player falling in acid and returning to the checkpoint.
 
 ![Spikes](DocImages/Section_1.1.png)
 
 ### Passthrough Platforms
-The passthrough platform has been placed to encourage the player to explore the environment around them as if they passthrough it they will see the staff that they need to break the pillar and get the key.
+The passthrough platform has been placed to encourage the player to explore the environment around them as when they passthrough they will see the staff needed to break the pillar and get the key.
 
 ### Weapon Pickup (Staff)
-The staff has been placed behind a door to encourage the player to explore the environment so that they can acquire it and collect the key blocked by the pillar teaching them about how the staff can break specific sections of the environment.
+The staff has been placed behind a door to encourage the player to explore the environment so that they can acquire it and break the pillar blocking the key.
 
 ### Keys
-The key has been placed behind the destructible pillar to encourage the player to explore and to solve the puzzle of what they need to do in order to break the pillar and attain the key behind it.
+The key has been placed behind the destructible pillar to encourage the player to solve the puzzle of what they need to do to break the pillar and attain the key behind it.
 
 ![Key](DocImages/Section_1.2.png)
 
 ### Chompers
-Chompers have been placed in a separate enclosed space to create an encounter where the player learns about the newly acquired staff and how it behaves while also being introduced to the chompers and their behaviours.
+Chompers have been placed to create an encounter where the player learns about the staff and how it behaves while also being introduced to the chompers and their behaviours.
 
 ### Health Pickups
-Health Pickups have been added to the end of the encounter with the chompers to reward the player for their hard work so far as they have overcome many different challenges such as spikes and chompers and their health may be quite low at this point in the level
+Health Pickups have been added to the end of the encounter with the chompers to reward the player for the different challenges they have overcome so far as their health may be quite low.
 
 ![Health](DocImages/Section_2.1.png)
 
 ### Spitters
-Spitters have been introduced later in the level as they are used to create an addition layer of difficulty to the level by causing the player to need to avoid the acid they spit while also needing to make sure that they don’t accidentally jump into the acid in front of them.
+Spitters have been introduced to create an addition layer of difficulty to the level by causing the player to need to avoid the acid they spit while also making sure they don’t accidentally jump into the acid in front of them.
 
 ### Weapon Pickup (Gun)
-The Gun has been hidden away from the player to encourage exploration as by having the player explore different areas of the level they can then be rewarded for their exploration with an additional weapon.
+The Gun has been hidden from the player to encourage exploration as by exploring different areas of the level the player is rewarded for their exploration with an additional weapon.
 
 ![Gun](DocImages/Section_2.2.png)
 
